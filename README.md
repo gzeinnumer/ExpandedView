@@ -1,5 +1,9 @@
 # ExpandedView
 
+<center>
+<img src="https://github.com/gzeinnumer/ExpandedView/blob/master/preview/example1.gif" width="200"/>
+</center>
+
 - MainActivity.java
 ```xml
 binding.llExpand1.setOnClickListener(view -> {

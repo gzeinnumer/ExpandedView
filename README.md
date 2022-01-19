@@ -5,7 +5,7 @@
 </center>
 
 - MainActivity.java
-```xml
+```java
 binding.llExpand1.setOnClickListener(view -> {
     if (binding.hiddenView1.getVisibility() == View.VISIBLE) {
         TransitionManager.beginDelayedTransition(binding.baseCardview1, new AutoTransition());
